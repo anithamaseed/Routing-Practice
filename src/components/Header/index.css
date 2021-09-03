@@ -1,0 +1,29 @@
+.app-header {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+.logo-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+}
+.route-link {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 10px;
+}
